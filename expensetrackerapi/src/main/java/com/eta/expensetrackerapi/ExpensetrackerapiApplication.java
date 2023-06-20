@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ExpensetrackerapiApplication {
-	// main runner class
+	// main runner
 	public static void main(String[] args) {
 		SpringApplication.run(ExpensetrackerapiApplication.class, args);
 	}
